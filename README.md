@@ -73,6 +73,7 @@ Some C8 boards ship with incorrect USB pull up resistors. More on that later.
 
 ### Links:
 
-[STM32F103C8 on st.com](http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f1-series/stm32f103/stm32f103c8.html)
-[Blue Pill on stm32duino wiki](http://wiki.stm32duino.com/index.php?title=Blue_Pill)
-[VCC GND branded STM32F103C8T6 Blue Pill](https://world.taobao.com/item/22097803050.htm?fromSite=main&spm=a312a.7700824.w4002-6273769129.41.46515f912HOxBD)
+* [STM32F103C8 on st.com](http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f1-series/stm32f103/stm32f103c8.html)
+* [Blue Pill on stm32duino wiki](http://wiki.stm32duino.com/index.php?title=Blue_Pill)
+* [VCC GND branded STM32F103C8T6 Blue Pill](https://world.taobao.com/item/22097803050.htm?fromSite=main&spm=a312a.7700824.w4002-6273769129.41.46515f912HOxBD)
+* [Buy on AliExpress](https://www.aliexpress.com/item/mini-Stm32f103c8t6-system-board-stm32-learning-development-board/1568685935.html) or search for "STM32F103C8T6"
