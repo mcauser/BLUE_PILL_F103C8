@@ -16,7 +16,7 @@ You can buy one for around $2 USD on [AliExpress](https://www.aliexpress.com/ite
 
 :warning: Most likely does not work yet.
 
-* Clone the board definitions to your [MicroPython](https://github.com/micropython/micropython) ports/stm32/boards folder.
+* Clone the board definitions to your [MicroPython](https://github.com/micropython/micropython) `ports/stm32/boards` folder.
 
 ```
 cd micropython/ports/stm32/boards
@@ -38,7 +38,7 @@ make BOARD=BLUE_PILL_F103C8 deploy
 * Connect the board via USB
 
 ```
-$ screen /dev/tty.usbmodem1422
+screen /dev/tty.usbmodem1422
 ```
 
 ### Specifications:
@@ -77,3 +77,7 @@ Some C8 boards ship with incorrect USB pull up resistors. More on that later.
 * [Blue Pill on stm32duino wiki](http://wiki.stm32duino.com/index.php?title=Blue_Pill)
 * [VCC GND branded STM32F103C8T6 Blue Pill](https://world.taobao.com/item/22097803050.htm?fromSite=main&spm=a312a.7700824.w4002-6273769129.41.46515f912HOxBD)
 * [Buy on AliExpress](https://www.aliexpress.com/item/mini-Stm32f103c8t6-system-board-stm32-learning-development-board/1568685935.html) or search for "STM32F103C8T6"
+
+## License
+
+Licensed under the [MIT License](http://opensource.org/licenses/MIT).
